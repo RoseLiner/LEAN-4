@@ -1,13 +1,3 @@
----
-title: "与 Lean 交互"
-source: "https://www.leanprover.cn/tp-lean-zh/InteractingWithLean/#interacting-with-lean"
-author:
-published:
-created: 2026-01-31
-description:
-tags:
-  - "clippings"
----
 ## 6\. 与 Lean 交互🔗
 
 你现在已经熟悉了依值类型论的基本原理，它既是一种定义数学对象的语言，也是一种构造证明的语言。 现在你缺少一个定义新数据类型的机制。下一章介绍 *归纳数据类型* 的概念来帮你完成这个目标。 但首先，在这一章中，我们从类型论的机制中抽身出来，探索与 Lean 交互的一些实用性问题。
